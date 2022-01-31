@@ -1,0 +1,4 @@
+0.0.0.0 www.666.com
+0.0.0.1 www.try.com
+114.255.40.66 www.bupt.edu.cn
+123.126.157.222 www.sina.com.cn
